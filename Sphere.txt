@@ -1,0 +1,3 @@
+SphereCenter 400,0,0
+SphereRadius 100
+SphereColor 1,0,0

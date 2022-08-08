@@ -1,0 +1,2 @@
+D:\code\CG\balls\balls2\RayTracing\Debug\RayTracing.exe
+D:\code\CG\balls\balls2\RayTracing\Debug\RayTracing.pdb

@@ -1,0 +1,7 @@
+﻿  RayTracing.cpp
+D:\code\CG\balls\balls2\RayTracing\RayTracing.cpp(114,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\code\CG\balls\balls2\RayTracing\RayTracing.cpp(114,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\code\CG\balls\balls2\RayTracing\RayTracing.cpp(118,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\code\CG\balls\balls2\RayTracing\RayTracing.cpp(118,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\code\CG\balls\balls2\RayTracing\RayTracing.cpp(37): warning C4715: 'ReadData': not all control paths return a value
+  RayTracing.vcxproj -> D:\code\CG\balls\balls2\RayTracing\Debug\RayTracing.exe

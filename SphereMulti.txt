@@ -1,0 +1,10 @@
+3
+SphereCenter 400,0,0
+SphereRadius 100
+SphereColor 1,0,0
+SphereCenter 600,100,50
+SphereRadius 50
+SphereColor 0,1,0
+SphereCenter -50,-200,-50
+SphereRadius 150
+SphereColor 1,1,0
